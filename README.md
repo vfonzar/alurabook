@@ -54,11 +54,11 @@ cd alurabook
 🤝 Contribuindo
 
 Este projeto é voltado para aprendizado, mas se quiser contribuir, siga os passos:
-	1.	Faça um fork deste repositório
-	2.	Crie uma branch (git checkout -b feature-sua-mudanca)
-	3.	Faça o commit (git commit -m 'Adicionando nova funcionalidade')
-	4.	Envie para o GitHub (git push origin feature-sua-mudanca)
-	5.	Abra um Pull Request
+1.	Faça um fork deste repositório
+2.	Crie uma branch (git checkout -b feature-sua-mudanca)
+3.	Faça o commit (git commit -m 'Adicionando nova funcionalidade')
+4.	Envie para o GitHub (git push origin feature-sua-mudanca)
+5.	Abra um Pull Request
 
 📜 Licença
 
