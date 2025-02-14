@@ -66,4 +66,10 @@ Este projeto é open-source e segue a licença MIT.
 
 ---
 
+## 📬 Contato
+
+📧 <a href="vfonzar@gmail.com" target="_blank">**Vinicius Fonzar**</a>  
+💼 <a href="https://www.linkedin.com/in/vfonzar" target="_blank">LinkedIn</a>  
+🐙 <a href="https://github.com/vfonzar" target="_blank">GitHub</a>  
+
 Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue! 🚀
