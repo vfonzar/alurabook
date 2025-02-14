@@ -32,14 +32,18 @@ Se deseja rodar o projeto no seu ambiente de desenvolvimento, siga estes passos:
 ### 🔄 Clonar o repositório
 ```sh
 git clone https://github.com/vfonzar/alurabook.git
+```
+
+
 
 ▶️ Rodar o projeto
-	1.	Acesse a pasta do projeto:
-
+1.	Acesse a pasta do projeto:
+```sh
 cd alurabook
+```
 
 
-	2.	Abra o arquivo index.html no navegador
+2.	Abra o arquivo index.html no navegador
 
 🛠️ Funcionalidades
 
